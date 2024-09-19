@@ -6,6 +6,15 @@
 
 **CryptoChainX** is a cutting-edge Web 3.0 blockchain application built with **React**, **Solidity**, and **Ethereum**. This project showcases the potential of decentralized applications (dApps) by providing a secure platform for cryptocurrency transactions.
 
+### Project Name Meaning
+
+The name **CryptoChainX** reflects the project's core focus on:
+- **Cryptocurrency Transactions** (Crypto)
+- **Blockchain Technology** (Chain)
+- **Exchange or dApp Functionality** (X for exchange or app integration)
+
+It sounds modern and aligns well with the decentralized nature of your Web 3.0 and blockchain-based application.
+
 ## Key Features 🚀
 
 - **Smart Contract Integration**:  
