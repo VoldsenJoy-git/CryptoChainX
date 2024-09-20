@@ -1,7 +1,6 @@
 # CryptoChainX 🌐💰
-
-![Ether](https://i.ibb.co/DVF4tNW/image.png)
-
+![CryptoChainX_header](./client/images/header.png)
+![footer](./client/images/footer.png)
 ## Overview
 
 **CryptoChainX** is a cutting-edge Web 3.0 blockchain application built with **React**, **Solidity**, and **Ethereum**. This project showcases the potential of decentralized applications (dApps) by providing a secure platform for cryptocurrency transactions.
@@ -28,7 +27,10 @@ It sounds modern and aligns well with the decentralized nature of your Web 3.0 a
 
 - **Responsive UI**:  
   A modern, user-friendly interface built with **React** that provides an intuitive experience on any device.
-
+# To run go to client and run  
+```bash
+npm run dev
+```
 ## Installation 🔧
 
 To get started with CryptoChainX, follow these steps:
