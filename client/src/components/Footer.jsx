@@ -30,7 +30,7 @@ const Footer = () => (
 
     <div className="w-full h-[1px] bg-gray-600 my-6" />
 
-    <div className="flex justify-between w-full max-w-6xl text-xs text-gray-400">
+    <div className="flex justify-between w-full max-w-6xl text-base text-gray-400">
       <p>@Joydeep Sen 2024</p>
       <p>All rights reserved</p>
     </div>
